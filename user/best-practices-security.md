@@ -1,7 +1,7 @@
 ---
 title: Best Practices in Securing Your Data
 layout: en
-
+docs-travis-ci-com/user/best-practices-security.md
 ---
 
 ## Steps Travis CI takes to secure your data
